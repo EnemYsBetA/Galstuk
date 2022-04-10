@@ -3,7 +3,7 @@ body
 	margin:0;
 	background-image: url(фон.png);
     background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: top;
 }
 
